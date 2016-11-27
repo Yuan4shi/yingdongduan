@@ -1,0 +1,8 @@
+.content{overflow:hidden;position:relative;}
+.left1{float:left;width:175px;background:#fff;}
+.left1 li{padding-top:3%;}
+.right1{float:right;width:145px;background:#fff;background-image:linear-gradient(to bottom,#fed940,#ffa312);}
+.right1 p{padding-left:5%;padding-right:3%;padding-top:1%;}
+.right1 .img1{padding-top:10%;padding-left:10%;}
+.right1 .img2{padding-bottom:8%;padding-left:50%;}
+
